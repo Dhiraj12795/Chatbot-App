@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "lXqbIdzcFX7sYU6aWIlIQjOybkWAtVJuWtNYEhwtM8Y=",
+  "Source": "chatboatapp",
+  "BasePath": "_content/chatboatapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "chatboatapp/wwwroot",
+      "Source": "chatboatapp",
+      "ContentRoot": "/mnt/d/Chatbot/Chatbot/chatboatapp/wwwroot/",
+      "BasePath": "_content/chatboatapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/mnt/d/Chatbot/Chatbot/chatboatapp/wwwroot/index.html",
+      "SourceId": "chatboatapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/mnt/d/Chatbot/Chatbot/chatboatapp/wwwroot/",
+      "BasePath": "_content/chatboatapp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
